@@ -1,2 +1,2 @@
 # Product-Landing-Page
-This is a landing for a clothing company
+This is a landing page for a clothing company
